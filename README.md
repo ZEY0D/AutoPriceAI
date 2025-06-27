@@ -1,4 +1,4 @@
-# AutoCarPrice 🚗📈 – Car Price Prediction using Machine Learning
+# 🚗📈 Neural Network-Based Car Price Estimator for the Automotive Market
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_06FCpGN90Gy01mwZMqcepXzJsKDLWs6#scrollTo=QOEuivPuCH_3)
 
