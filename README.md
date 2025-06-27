@@ -14,7 +14,7 @@ This project builds and evaluates a predictive model that estimates the price of
 
 ## 📊 Dataset
 
-- **Source**: [Provide name or "Kaggle Car Price Dataset" or similar]
+- **Source**: [Provide name or "Kaggle Car Price Dataset"]
 - **Target**: `price` (the car's market price)
 - **Features Used** (examples):
   - `brand`
